@@ -19,8 +19,8 @@ A simple Android app that creates floating buttons for adjusting the device's vo
 
 ## Download
 
-[Download the APK](release/FloatingVolume.apk)
-[Download the APK]([release/FloatingVolume.apk](https://github.com/BrunooDosAnjos/FloatingVolume/releases))
+--[Download the APK](release/FloatingVolume.apk)
+--[Download the APK]([release/FloatingVolume.apk](https://github.com/BrunooDosAnjos/FloatingVolume/releases))
 
 ---
 
