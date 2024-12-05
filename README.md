@@ -10,11 +10,17 @@ A simple Android app that creates floating buttons for adjusting the device's vo
 - **Continuous Volume Adjustment**: Holding the buttons continuously adjusts the volume.
 - **Volume Bar Display**: Displays the system volume bar during adjustments.
 
+--
+
+![Floating Volume App Image](images/screenshot.png)
+
+
 ---
 
 ## Download
 
 [Download the APK](release/FloatingVolume.apk)
+[Download the APK]([release/FloatingVolume.apk](https://github.com/BrunooDosAnjos/FloatingVolume/releases))
 
 ---
 
