@@ -12,7 +12,7 @@ A simple Android app that creates floating buttons for adjusting the device's vo
 
 --
 
-![Floating Volume App Image](images/screenshot.png)
+![Floating Volume App Image](release/img.png)
 
 
 ---
